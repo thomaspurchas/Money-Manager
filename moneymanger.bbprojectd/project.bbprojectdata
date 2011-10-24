@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>A736CCF8-CAEB-4540-9AF6-5860CC109B28</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>A736CCF8-CAEB-4540-9AF6-5860CC109B28</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGAAAIAAQxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADKNUYOSCsAAAASsuoMbW9uZXltYW5hZ2VyAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAACQ1PsrLFfoAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABkRqYW5nbwAQAAgA
+				AMo1N/4AAAARAAgAAMrLB+oAAAABABAAErLqAAWodgAG
+				AQkAAL8yAAIAOE1hY2ludG9zaCBIRDpVc2VyczoAVGhv
+				bWFzOgBQeXRob246AERqYW5nbzoAbW9uZXltYW5hZ2Vy
+				AA4AGgAMAG0AbwBuAGUAeQBtAGEAbgBhAGcAZQByAA8A
+				GgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAJ1Vz
+				ZXJzL1Rob21hcy9QeXRob24vRGphbmdvL21vbmV5bWFu
+				YWdlcgAAEwABLwAAFQACAA3//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/Thomas/Python/Django/moneymanager/</string>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>moneymanager</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
